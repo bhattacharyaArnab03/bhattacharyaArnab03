@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💭About Me:
 - 🔭 I’m currently working on **Machine Learning and Deep Learning projects**, focusing on **efficient model deployment** and **real-world inference**.<br>- 🌱 I’m actively learning and exploring **Advanced Computer Vision**, **Model Optimization**, and **ML System Design**.<br>- 🧠 Passionate about:<br>  - Building intelligent systems that solve **real-life problems**<br>  - Exploring the intersection of **AI, Economics, and Business**<br>- 📚 Currently engaged in:<br>  - Researching & experimenting with **SOTA ML architectures**<br>  - Participating in **open-source** & **virtual internships**<br>  - Sharing beginner-friendly **tech and economic insights**<br>- ⚡ Fun fact: I love transforming complex problems into elegant ML pipelines!<br><br>---<br><br>### 🎯 Future Goals<br><br>- 🚀 Build a startup that leverages **AI for smart automation and decision-making**<br>- 🌍 Contribute to **open-source AI frameworks**<br>- 🎓 Mentor and collaborate on impactful **ML/AI research**<br>- 📢 Speak at tech meetups & publish insightful articles/blogs<br><br>---
 
 
